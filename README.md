@@ -1,4 +1,15 @@
 [![Header](https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/my-github-banner3.gif "Header")]()
+<h2 align="left">I am an engineering student :hammer_and_wrench::mortar_board: at ULB :classical_building: (Brussels, Belgium :belgium:)</h2>
+<h3 align="left">I am a
+  
+  - :computer: tech enthusiast
+  - :world_map: traveler
+  - :triangular_ruler: design lover
+  - :guitar: newbie guitarist
+  - :camera_flash: newbie photographer
+  - :rainbow_flag: male - He/Him
+</h3>
+
 
 <!-- ### Hi there 👋 -->
 

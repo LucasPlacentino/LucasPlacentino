@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/my-github-banner.png "Header")]()
+[![Header](https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/my-github-banner3.gif "Header")]()
 
 <!-- ### Hi there 👋 -->
 

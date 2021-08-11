@@ -21,8 +21,8 @@ My Spotify is down below.
   - :camera_flash: newbie photographer,
   - :rainbow_flag: male - He/Him.
 
-### My interest are:
-Digital&Analog electronics, 3D printing, CNC milling, IOT devices, computers, etc.
+### My interests are:
+Digital&Analog electronics, 3D printing, CNC machining, IOT devices, computers, etc.
 
 ### My skills are:
 ```text

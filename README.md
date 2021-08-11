@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/my-github-banner.png "Header")]()
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **ticccco1/ticccco1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

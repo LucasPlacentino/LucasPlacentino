@@ -1,4 +1,5 @@
-[![Header](https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/my-github-banner3.gif "Header")]()
+[![Header](https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/my-github-banner3.gif "Header")](https://github.com/lucasplacentino)
+
 ## Engineering student :hammer_and_wrench::mortar_board: at ULB :classical_building: (Brussels, Belgium :belgium:)
 
 **Socials:**

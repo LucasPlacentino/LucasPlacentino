@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/placentino-lucas/" target="_blank" title="My Linkedin"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Lucas Placentino" target="_blank" align="center" width="110" height="48"/></a>
   <a href="https://www.youtube.com/channel/UCQJ-jmjFdEgXQAsvjdaEhbw" target="_blank" title="My Youtube"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Lucas Placentino" align="center" height="48"/></a>
   <a href="https://www.twitch.tv/ticccco1" target="_blank" title="My Twitch"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" alt="ticccco1" align="center" height="48" width="100"/></a>
-  <a href="https://lucasplacentino.carrd.co/" target="_blank" title="My Carrd.co"><img src="https://carrd.co/assets/images/docs/brand/svg/icon-color.svg" alt="Lucas Placentino" align="center" height="48"/></a>
+  <a href="https://lucas.placentino.be/" target="_blank" title="Personal Website"><img src="https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/personalwebsiteicon.svg" alt="Lucas Placentino" align="center" height="50"/></a>
 </p>
 My Spotify is down below.
 <!-- INSERT social media etc -->

@@ -28,11 +28,11 @@ Digital&Analog electronics, 3D printing, CNC machining, IOT devices, computers, 
 
 ### My skills are:
 ```text
+  - Python          ██████████████████░░░░░░░
+
   - Kotlin          █████████████████░░░░░░░░
   
   - AndroidStudio   █████████████████░░░░░░░░
-  
-  - Python          █████████████░░░░░░░░░░░░
   
   - Java            ██████░░░░░░░░░░░░░░░░░░░
   

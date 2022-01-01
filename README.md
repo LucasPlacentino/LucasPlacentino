@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/my-github-banner3.gif "Header")](https://github.com/lucasplacentino)
 
-## Engineering student :hammer_and_wrench::mortar_board: at ULB :classical_building: (Brussels, Belgium :belgium:)
+## ⚡ Engineering student :hammer_and_wrench::mortar_board: at ULB :classical_building: (Brussels, Belgium :belgium:)
 
 **Socials:**
 <p align="center">
@@ -17,6 +17,7 @@ My Spotify is down below.
 
 ## I am a
   - :computer: tech enthusiast,
+  - :control_knobs: homelab beginner,
   - :world_map: traveler,
   - :triangular_ruler: design lover,
   - :guitar: newbie guitarist,
@@ -24,7 +25,7 @@ My Spotify is down below.
   - :rainbow_flag: male - He/Him.
 
 ### My interests are:
-Digital&Analog electronics, 3D printing, CNC machining, IOT devices, computers, etc.
+Digital&Analog electronics, product design and engineering, 3D printing, CNC machining, IOT devices and homelabs, computers, cloud infrastructures, networks, etc.
 
 ### My skills are:
 ```text
@@ -35,6 +36,8 @@ Digital&Analog electronics, 3D printing, CNC machining, IOT devices, computers, 
   - AndroidStudio   █████████████████░░░░░░░░
   
   - Java            ██████░░░░░░░░░░░░░░░░░░░
+  
+  - Linux           █████░░░░░░░░░░░░░░░░░░░░
   
   - Electronics     ██████████████░░░░░░░░░░░
   

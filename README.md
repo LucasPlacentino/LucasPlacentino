@@ -4,7 +4,7 @@
 
 **Socials:**
 <p align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=LucasPlacentino" target="_blank" title="My Twitter"><img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="@LucasPlacentino" align="center" width="100" height="48"/></a>
+  <a href="https://twitter.com/intent/follow?screen_name=LucasPlacentino" target="_blank" title="My Twitter"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="@LucasPlacentino" align="center" width="100" height="48"/></a>
   <a href="https://www.instagram.com/lucasplacentino" target="_blank" title="My Instagram"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="@lucasplacentino" align="center" height="48"/></a>
   <!--<a href="https://www.instagram.com/lucasplacentino" target="_blank" title="My Instagram"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="@lucasplacentino" align="center" width="90" height="48"/></a>-->
   <a href="https://www.linkedin.com/in/placentino-lucas/" target="_blank" title="My Linkedin"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Lucas Placentino" target="_blank" align="center" width="110" height="48"/></a>

@@ -71,6 +71,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Buy me a coffee 😃☕ 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8BUHSB)
+
 -------------------------------
 
 *Made with ❤️ by Lucas 🥄*

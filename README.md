@@ -25,21 +25,25 @@ My Spotify is down below.
   - :rainbow_flag: male - He/Him.
 
 ### My interests are:
-Digital&Analog electronics, product design and engineering, 3D printing, CNC machining, IOT devices and homelabs, computers, cloud infrastructures, networks, etc.
+Digital&Analog electronics, product design and engineering, 3D printing, CNC machining, IOT devices and homelabs, computers, cloud infrastructures, networking, etc.
 
 ### My skills are:
 ```text
+  - Electronics     ██████████████░░░░░░░░░░░
+
   - Python          ██████████████████░░░░░░░
 
   - Kotlin          █████████████████░░░░░░░░
   
-  - AndroidStudio   █████████████████░░░░░░░░
+  - Java            █████░░░░░░░░░░░░░░░░░░░░
   
-  - Java            ██████░░░░░░░░░░░░░░░░░░░
+  - C               ███░░░░░░░░░░░░░░░░░░░░░░
+  
+  - Rust            ███░░░░░░░░░░░░░░░░░░░░░░
+  
+  - AndroidStudio   █████████████░░░░░░░░░░░░
   
   - Linux           █████░░░░░░░░░░░░░░░░░░░░
-  
-  - Electronics     ██████████████░░░░░░░░░░░
   
   - Design          █████████░░░░░░░░░░░░░░░░
 ```
@@ -51,7 +55,7 @@ Digital&Analog electronics, product design and engineering, 3D printing, CNC mac
 
 ## Spotify
 <!-- [<img src="https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/spotifyfullbanner.png" height="150">](https://open.spotify.com/user/ticccco1) -->
-<a href="https://open.spotify.com/user/ticccco1" target="_blank" title="My Spotify"><img src="https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/spotifyfullbanner.png" height="150"/></a>
+<a href="https://open.spotify.com/user/ticccco1" target="_blank" title="My Spotify"><img src="https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/spotifyfullbanner.png" style="width: 20vw"/></a>
 
 
 <!-- ### Hi there 👋 -->
@@ -77,4 +81,4 @@ Here are some ideas to get you started:
 
 -------------------------------
 
-*Made with ❤️ by Lucas 🥄*
+*`Made with ❤️ by Lucas 🥄`*

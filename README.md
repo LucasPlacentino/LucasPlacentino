@@ -30,25 +30,25 @@ Digital&Analog electronics, product design and engineering, 3D printing, CNC mac
 
 ### My skills are:
 ```text
-  - Electronics     ██████████████░░░░░░░░░░░
+  - Electronics     ███████████████⣦⣀⣀⣀⣀⣀⣀⣀
   
-  - KiCad           ███░░░░░░░░░░░░░░░░░░░░░░
+  - KiCad           ███⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
-  - Python          ██████████████████░░░░░░░
+  - Python          ██████████████████⣦⣀⣀⣀⣀⣀
   
-  - Rust            ███░░░░░░░░░░░░░░░░░░░░░░
+  - Rust            ███⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
-  - Kotlin          █████████████████░░░░░░░░
+  - Kotlin          ██████████████████⣦⣀⣀⣀⣀⣀
   
-  - Java            █████░░░░░░░░░░░░░░░░░░░░
+  - Java            ██████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   
-  - C               ███░░░░░░░░░░░░░░░░░░░░░░
+  - C               ███⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   
-  - AndroidStudio   █████████████░░░░░░░░░░░░
+  - AndroidStudio   █████████████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀
   
-  - Linux           █████░░░░░░░░░░░░░░░░░░░░
+  - Linux           █████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   
-  - Design          █████████░░░░░░░░░░░░░░░░
+  - Design          █████████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 ### I speak:
@@ -57,26 +57,8 @@ Digital&Analog electronics, product design and engineering, 3D printing, CNC mac
   - *(a little)* Dutch 🇧🇪 🇳🇱
 
 ## Spotify
-<!-- [<img src="https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/spotifyfullbanner.png" height="150">](https://open.spotify.com/user/ticccco1) -->
-<a href="https://open.spotify.com/user/ticccco1" target="_blank" title="My Spotify"><img src="https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/spotifyfullbanner.png" style="width: 20vw"/></a>
 
-
-<!-- ### Hi there 👋 -->
-
-<!--
-**ticccco1/ticccco1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://open.spotify.com/user/ticccco1" target="_blank" title="My Spotify"><img src="https://user-images.githubusercontent.com/23436953/193420709-8ce99f59-d05d-4593-b205-47790750e9ef.png" style="width: 15vw"/></a>
 
 ## Buy me a coffee 😃☕ 
 

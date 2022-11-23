@@ -5,6 +5,9 @@
 **Socials:**
 <p align="center">
   <a href="https://twitter.com/intent/follow?screen_name=LucasPlacentino" target="_blank" title="Twitter"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="@LucasPlacentino" align="center" width="100" height="48"/></a>
+  <a rel="me" href="https://mastodon.social/@lucasplacentino" target="_blank" title="Mastodon"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="@lucasplacentino@mastodon.social" align="center" width="48" height="48"/></a>
+  &nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/lucasplacentino" target="_blank" title="Instagram"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="@lucasplacentino" align="center" height="48"/></a>
   <!--<a href="https://www.instagram.com/lucasplacentino" target="_blank" title="Instagram"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="@lucasplacentino" align="center" width="90" height="48"/></a>-->
   <a href="https://www.linkedin.com/in/placentino-lucas/" target="_blank" title="Linkedin"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Lucas Placentino" target="_blank" align="center" width="100" height="48"/></a>
@@ -16,7 +19,9 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://l0cache.substack.com/" target="_blank" title="Blog - L0 Cache"><img src="https://user-images.githubusercontent.com/23436953/200170639-4cc0ec03-4ca8-4ca8-8efe-c5136b90189a.svg" alt="Lucas Placentino" target="_blank" align="center" height="44" width="44" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://lucas.placentino.be/" target="_blank" title="Personal Website" style="margin-left: 50px"><img src="https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/personalwebsiteicon.svg" alt="Lucas Placentino" align="center" height="56" /></a>
+  <a href="https://lucas.placentino.be/" target="_blank" title="Personal Website" style="margin-left: 50px"><img src="https://user-images.githubusercontent.com/23436953/203611821-5db5c21d-0319-4688-bc15-613ac560b93e.svg" alt="Lucas Placentino" align="center" height="64" /></a>
+  &nbsp;
+  <a href="https://gitlab.com/lucasplacentino" target="_blank" title="Gitlab"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" alt="Lucas Placentino" align="center" height="48" /></a>
 </p>
 My Spotify is down below.
 <!-- INSERT social media etc -->

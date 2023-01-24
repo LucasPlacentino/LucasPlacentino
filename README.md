@@ -26,6 +26,10 @@
 My Spotify is down below.
 <!-- INSERT social media etc -->
 
+## My theme: 🌌 Nebular 🚀
+* For [VS Code](https://marketplace.visualstudio.com/items?itemName=obsilab.nebular) ([Repo](https://github.com/LucasPlacentino/nebular-vscode))
+* For [Oh-My-Posh](https://github.com/LucasPlacentino/nebular-omp)
+
 ## I am a
   - :computer: tech enthusiast,
   - :control_knobs: homelab beginner,

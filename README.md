@@ -4,7 +4,7 @@
 
 **Socials:**
 <p align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=LucasPlacentino" target="_blank" title="Twitter"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="@LucasPlacentino" align="center" width="100" height="48"/></a>
+  <a href="https://twitter.com/intent/follow?screen_name=LucasPlacentino" target="_blank" title="Twitter"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="@LucasPlacentino" align="center" width="80" height="48"/></a>
   <a rel="me" href="https://mastodon.social/@lucasplacentino" target="_blank" title="Mastodon"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="@lucasplacentino@mastodon.social" align="center" width="48" height="48"/></a>
   &nbsp;
   &nbsp;
@@ -23,7 +23,7 @@
   &nbsp;
   <a href="https://gitlab.com/lucasplacentino" target="_blank" title="Gitlab"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" alt="Lucas Placentino" align="center" height="48" /></a>
 </p>
-My Spotify is down below.
+My <span style="color: emerald;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="LucasPlacentino" display="inline-block" height="16"/> Spotify</span> is down below.
 <!-- INSERT social media etc -->
 
 ## My theme: 🌌 Nebular 🚀
@@ -36,27 +36,27 @@ My Spotify is down below.
   - :world_map: traveler,
   - :triangular_ruler: design lover,
   - :guitar: newbie guitarist,
-  - :camera_flash: newbie photographer,
-  - :rainbow_flag: male - He/Him.
+  - :camera_flash: film photographer,
+  - :rainbow_flag: He/Him.
 
 ### My interests are:
-Digital&Analog electronics, product design and engineering, 3D printing, CNC machining, IOT devices and homelabs, computers, cloud infrastructures, networking, etc.
+Digital & Analog electronics, product design and engineering, 3D printing, CNC machining, IOT devices and homelabs, computers, cloud infrastructures, networking, etc.
 
 ### My skills are:
 ```text
-  - Electronics     ███████████████⣦⣀⣀⣀⣀⣀⣀⣀
+  - Electronics     ██████████████████⣦⣀⣀⣀⣀⣀
   
-  - KiCad           ███⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
+  - KiCad           ███████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
   - Python          ██████████████████⣦⣀⣀⣀⣀⣀
   
   - Rust            ███⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
-  - Kotlin          ██████████████████⣦⣀⣀⣀⣀⣀
+  - Kotlin          ████████████████⣦⣀⣀⣀⣀⣀⣀⣀
   
   - Java            ██████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   
-  - C               ███⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
+  - C               █████████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   
   - AndroidStudio   █████████████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀
   
@@ -70,14 +70,19 @@ Digital&Analog electronics, product design and engineering, 3D printing, CNC mac
   - English 🇬🇧 🇺🇸
   - *(a little)* Dutch 🇧🇪 🇳🇱
 
-## Spotify
+### Spotify
 
 <a href="https://open.spotify.com/user/ticccco1" target="_blank" title="My Spotify"><img src="https://user-images.githubusercontent.com/23436953/193420709-8ce99f59-d05d-4593-b205-47790750e9ef.png" style="width: 15vw"/></a>
 
-## Buy me a coffee 😃☕ 
+### Buy me a coffee 😃☕ 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8BUHSB)
 
 -------------------------------
+<span style="text-align: center;" align="center">
+  <p align="center" markdown="1">
 
 *`Made with ❤️ by Lucas 🥄`*
+
+  </p>
+</span>

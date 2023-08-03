@@ -23,7 +23,7 @@
   &nbsp;
   <a href="https://gitlab.com/lucasplacentino" target="_blank" title="Gitlab"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" alt="Lucas Placentino" align="center" height="48" /></a>
 </p>
-My <span style="color: emerald;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="LucasPlacentino" display="inline-block" height="16"/> Spotify</span> is down below.
+My <a href="https://github.com/LucasPlacentino#spotify"><span style="color: emerald;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="LucasPlacentino" display="inline-block" height="16"/> Spotify</span></a> is down below.
 <!-- INSERT social media etc -->
 
 ## My theme: 🌌 Nebular 🚀
@@ -46,7 +46,7 @@ Digital & Analog electronics, product design and engineering, 3D printing, CNC m
 ```text
   - Electronics     ██████████████████⣦⣀⣀⣀⣀⣀
   
-  - KiCad           ███████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
+  - KiCad           █████████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
   - Python          ██████████████████⣦⣀⣀⣀⣀⣀
   
@@ -57,8 +57,10 @@ Digital & Analog electronics, product design and engineering, 3D printing, CNC m
   - Java            ██████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   
   - C               █████████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
+
+  - Arduino         █████████████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀
   
-  - AndroidStudio   █████████████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀
+  - AndroidStudio   █████████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   
   - Linux           █████⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   
@@ -74,13 +76,11 @@ Digital & Analog electronics, product design and engineering, 3D printing, CNC m
 
 <a href="https://open.spotify.com/user/ticccco1" target="_blank" title="My Spotify"><img src="https://user-images.githubusercontent.com/23436953/193420709-8ce99f59-d05d-4593-b205-47790750e9ef.png" style="width: 15vw"/></a>
 
-### Buy me a coffee 😃☕ 
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8BUHSB)
-
 -------------------------------
 <span style="text-align: center;" align="center">
   <p align="center" markdown="1">
+
+<a href="https://ko-fi.com/H2H8BUHSB"><img src="https://github.com/LucasPlacentino/LucasPlacentino/assets/23436953/ba0c06d6-7067-422e-a049-f9f4ed95de20" style="width: 3vw"/></a> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8BUHSB)
 
 *`Made with ❤️ by Lucas 🥄`*
 

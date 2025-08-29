@@ -1,4 +1,6 @@
-[![Header](https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/my-github-banner3.gif "Header")](https://github.com/lucasplacentino)
+<!--[![Header](https://raw.githubusercontent.com/lucasplacentino/lucasplacentino/main/my-github-banner3.gif "Header")](https://github.com/lucasplacentino)-->
+
+<a href="https://github.com/lucasplacentino"><img src="https://raw.githubusercontent.com/LucasPlacentino/LucasPlacentino/refs/heads/main/typing-svg-readme.svg" alt="Hi there 👋 I'm Lucas, Welcome to my Github!"/></a>
 
 ## ⚡ Engineering student :hammer_and_wrench::mortar_board: at ULB :classical_building: (Brussels, Belgium :belgium:)
 

@@ -4,7 +4,7 @@
 
 ## ⚡ Engineering student :hammer_and_wrench::mortar_board: at ULB :classical_building: (Brussels, Belgium :belgium:)
 
-**Links:**
+$\large\text{\color{#F79D2C}{Links:}}$  
 <p align="start" style="padding: 0; margin: 0;">
   <a href="https://www.linkedin.com/in/placentino-lucas/" target="_blank" title="Linkedin"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Lucas Placentino" target="_blank" align="center" width="50" height="48"/></a>
   <a href="https://lucas.placentino.be/" target="_blank" title="Personal Website" style="margin-left: 50px"><img src="https://user-images.githubusercontent.com/23436953/203611821-5db5c21d-0319-4688-bc15-613ac560b93e.svg" alt="Lucas Placentino" align="center" height="70" /></a>
@@ -31,11 +31,11 @@
 </p>
 <a href="https://github.com/LucasPlacentino#spotify"><span style="color: emerald;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="LucasPlacentino" display="inline-block" height="16"/> Spotify</span></a> is down below.
 
-## My theme: 🌌 Nebular 🚀
+## $\large\text{\color{#F79D2C}{My theme: 🌌 Nebular 🚀 }}$
 * For [VS Code](https://marketplace.visualstudio.com/items?itemName=obsilab.nebular) ([Repo](https://github.com/LucasPlacentino/nebular-vscode)) _[WIP]_
 * For [Oh-My-Posh](https://github.com/LucasPlacentino/nebular-omp)
 
-## I am a
+## $\large\text{\color{#F79D2C}{I am a}}$
   - :computer: tech enthusiast,
   - :control_knobs: homelab beginner,
   - :world_map: traveler,
@@ -44,10 +44,10 @@
   - :camera_flash: film photographer,
   - :rainbow_flag: ally (he/him).
 
-### Interests
+## $\text{\color{#F79D2C}{Interests}}$
 Digital & Analog electronics, product design and engineering, 3D printing, CNC machining, IOT devices and homelabs, computers, cloud infrastructures, networking, etc.
 
-### Skills
+## $\text{\color{#F79D2C}{Skills}}$
 ```text
  ╭─────────────────────────────────────────────────╮
  │ - Electronics     █████████████████▓▒▒░░░░░░   │
@@ -74,12 +74,12 @@ Digital & Analog electronics, product design and engineering, 3D printing, CNC m
  ╰─────────────────────────────────────────────────╯
 ```
 
-### I speak
+## $\text{\color{#F79D2C}{I speak}}$
   - French 🇧🇪 🇫🇷
   - English 🇬🇧 🇺🇸
   - *(a little)* Dutch 🇧🇪 🇳🇱
 
-### Spotify
+## $\text{\color{#F79D2C}{My Spotify}}$
 
 <a href="https://open.spotify.com/user/ticccco1" target="_blank" title="My Spotify"><img src="https://user-images.githubusercontent.com/23436953/193420709-8ce99f59-d05d-4593-b205-47790750e9ef.png" style="width: 32%"/></a>
 

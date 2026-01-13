@@ -2,7 +2,7 @@
 
 <a href="https://github.com/lucasplacentino"><img src="https://raw.githubusercontent.com/LucasPlacentino/LucasPlacentino/refs/heads/main/typing-svg-readme.svg" alt="Hi there 👋 I'm Lucas, Welcome to my Github!"/></a>
 
-## ⚡ Engineering student :hammer_and_wrench::mortar_board: at ULB :classical_building: (Brussels, Belgium :belgium:)
+## ⚡ Electronics Engineering MSc :hammer_and_wrench::mortar_board: at ULB/VUB-Bruface :classical_building: (Brussels, Belgium :belgium:)
 
 $\large\text{\color{#F79D2C}{Links:}}$  
 <p align="start" style="padding: 0; margin: 0;">
@@ -45,22 +45,22 @@ $\large\text{\color{#F79D2C}{Links:}}$
   - :rainbow_flag: ally (he/him).
 
 ## $\text{\color{#F79D2C}{Interests}}$
-Digital & Analog electronics, product design and engineering, 3D printing, CNC machining, IOT devices and homelabs, computers, cloud infrastructures, networking, etc.
+Digital electronics, computer architectures - RISC-V, FPGAs, product design and engineering, 3D printing, CNC machining, IOT devices and homelabs, cloud infrastructures, networking, Open-Source movement, etc.
 
 ## $\text{\color{#F79D2C}{Skills}}$
 
 | | |
 | --- | --- |
 | Electronics | █████████████████▓▒▒░░░░░░ |
+| HDLs        | █████████▓▒▒░░░░░░░░░░░░░░ |
 | KiCad       | ██████████████▓▒░░░░░░░░░░ |
+| C/C++       | ██████████▓▒░░░░░░░░░░░░░░ |
 | Python      | ██████████████████▓▒░░░░░░ |
-| Rust        | ███▓▒░░░░░░░░░░░░░░░░░░░░░ |
-| Kotlin      | ██████████████▓▒░░░░░░░░░░ |
-| Java        | ██████▓▒░░░░░░░░░░░░░░░░░░ |
-| C/C++       | █████████▓▒░░░░░░░░░░░░░░░ |
+| MATLAB      | █████████▓▒░░░░░░░░░░░░░░░ |
 | Arduino     | ██████████████▓▒░░░░░░░░░░ |
-| CI/CD       | ██████▓▒░░░░░░░░░░░░░░░░░░ |
 | Linux       | ██████▓▒░░░░░░░░░░░░░░░░░░ |
+| Rust        | ███▓▒░░░░░░░░░░░░░░░░░░░░░ |
+| CI/CD       | ██████▓▒░░░░░░░░░░░░░░░░░░ |
 | Design      | ██████████████▓▒░░░░░░░░░░ |
 | | |
 

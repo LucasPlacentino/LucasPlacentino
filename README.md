@@ -6,30 +6,19 @@
 
 $\large\text{\color{#F79D2C}{Links:}}$  
 <p align="start" style="padding: 0; margin: 0;">
-  <a href="https://www.linkedin.com/in/placentino-lucas/" target="_blank" title="Linkedin"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Lucas Placentino" target="_blank" align="center" width="50" height="48"/></a>
-  <a href="https://lucas.placentino.be/" target="_blank" title="Personal Website" style="margin-left: 50px"><img src="https://user-images.githubusercontent.com/23436953/203611821-5db5c21d-0319-4688-bc15-613ac560b93e.svg" alt="Lucas Placentino" align="center" height="70" /></a>
-  <a href="https://twitter.com/intent/follow?screen_name=LucasPlacentino" target="_blank" title="Twitter"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="@LucasPlacentino" align="center" width="54" height="40"/></a>
-  &nbsp;
-  <a rel="me" href="https://mastodon.social/@lucasplacentino" target="_blank" title="Mastodon"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="@lucasplacentino@mastodon.social" align="center" width="48" height="48"/></a>
-  &nbsp;
-  &nbsp;
-  <a href="https://www.instagram.com/lucasplacentino" target="_blank" title="Instagram"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="@lucasplacentino" align="center" height="48"/></a>
-  <!--<a href="https://www.instagram.com/lucasplacentino" target="_blank" title="Instagram"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="@lucasplacentino" align="center" width="90" height="48"/></a>-->
-  &nbsp;
-  <!--
-  <a href="https://www.youtube.com/channel/UCQJ-jmjFdEgXQAsvjdaEhbw" target="_blank" title="My Youtube"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Lucas Placentino" align="center" height="48"/>     </a>
-  &nbsp;
-  <a href="https://www.twitch.tv/ticccco1" target="_blank" title="My Twitch"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" alt="ticccco1" align="center" height="48" width="70"/></a>
-  &nbsp;
-  <a  href="https://lucaspla.medium.com/" target="_blank" title="Medium"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Lucas Placentino" target="_blank" align="center" height="52" width="50" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://l0cache.substack.com/" target="_blank" title="Blog - L0 Cache"><img src="https://user-images.githubusercontent.com/23436953/200170639-4cc0ec03-4ca8-4ca8-8efe-c5136b90189a.svg" alt="Lucas Placentino" target="_blank" align="center" height="44" width="44" /></a>
-  &nbsp;&nbsp;&nbsp;
-    -->
-  &nbsp;
-  <a href="https://gitlab.com/lucasplacentino" target="_blank" title="Gitlab"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" alt="Lucas Placentino" align="center" height="48" /></a>
-</p>
-<a href="https://github.com/LucasPlacentino#spotify"><span style="color: emerald;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="LucasPlacentino" display="inline-block" height="16"/> Spotify</span></a> is down below.
+ <a href="https://www.linkedin.com/in/placentino-lucas/" target="_blank" title="Linkedin">LinkedIn</a>
+&nbsp; | &nbsp;
+<a href="https://lucas.placentino.be/" target="_blank" title="Personal Website" style="margin-left: 50px">Personal Website</a> 
+&nbsp; | &nbsp;
+<a href="https://twitter.com/intent/follow?screen_name=LucasPlacentino" target="_blank" title="Twitter">Twitter</a> 
+&nbsp; | &nbsp;
+<a rel="me" href="https://mastodon.social/@lucasplacentino" target="_blank" title="Mastodon">Mastodon</a> 
+&nbsp; | &nbsp;
+<a href="https://www.instagram.com/lucasplacentino" target="_blank" title="Instagram">Instagram</a> 
+&nbsp; | &nbsp;
+<a href="https://gitlab.com/lucasplacentino" target="_blank" title="Gitlab">Gitlab</a> 
+&nbsp; | &nbsp;
+<a href="https://open.spotify.com/user/ticccco1" target="_blank" title="Spotify"><span style="color: emerald;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="LucasPlacentino" display="inline-block" height="16"/> Spotify</span></a></p>
 
 ## $\large\text{\color{#F79D2C}{My theme: 🌌 Nebular 🚀 }}$
 * For [VS Code](https://marketplace.visualstudio.com/items?itemName=obsilab.nebular) ([Repo](https://github.com/LucasPlacentino/nebular-vscode)) _[WIP]_
@@ -97,17 +86,13 @@ Digital electronics, computer architectures - RISC-V, FPGAs, product design and 
   - English 🇬🇧 🇺🇸
   - *(a little)* Dutch 🇧🇪 🇳🇱
 
-## $\text{\color{#F79D2C}{My Spotify}}$
-
-<a href="https://open.spotify.com/user/ticccco1" target="_blank" title="My Spotify"><img src="https://user-images.githubusercontent.com/23436953/193420709-8ce99f59-d05d-4593-b205-47790750e9ef.png" style="width: 32%"/></a>
-
 -------------------------------
 <span style="text-align: center;" align="center">
   <p align="center" markdown="1">
 
 <a href="https://ko-fi.com/H2H8BUHSB"><img src="https://github.com/LucasPlacentino/LucasPlacentino/assets/23436953/ba0c06d6-7067-422e-a049-f9f4ed95de20" style="width: 3vw"/></a> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8BUHSB)
 
-*`Made with ❤️ by Lucas 🥄`*
+*`Lucas`*
 
   </p>
 </span>

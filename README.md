@@ -20,8 +20,8 @@ $\large\text{\color{#F79D2C}{Links:}}$
 &nbsp; | &nbsp;
 <a href="https://open.spotify.com/user/ticccco1" target="_blank" title="Spotify"><span style="color: emerald;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="LucasPlacentino" display="inline-block" height="16"/> Spotify</span></a></p>
 
-## $\large\text{\color{#F79D2C}{My theme: 🌌 Nebular 🚀 }}$
-* For [VS Code](https://marketplace.visualstudio.com/items?itemName=obsilab.nebular) ([Repo](https://github.com/LucasPlacentino/nebular-vscode)) _[WIP]_
+## $\large\text{\color{#F79D2C}{Ttheme: 🌌 Nebular 🚀 }}$
+* For [VS Code](https://marketplace.visualstudio.com/items?itemName=obsilab.nebular) ([Repo](https://github.com/LucasPlacentino/nebular-vscode))
 * For [Oh-My-Posh](https://github.com/LucasPlacentino/nebular-omp)
 
 ## $\large\text{\color{#F79D2C}{I am a}}$
@@ -37,7 +37,9 @@ $\large\text{\color{#F79D2C}{Links:}}$
 Digital electronics, computer architectures - RISC-V, FPGAs, product design and engineering, 3D printing, CNC machining, IOT devices and homelabs, cloud infrastructures, networking, Open-Source movement, etc.
 
 ## $\text{\color{#F79D2C}{Skills}}$
+Electronics (mostly digital), HDLs (mostly VHDL), KiCad, C/C++, MATLAB, Python, Arduino, Linux, CI/CD, etc.
 
+<!--
 | | |
 | --- | --- |
 | Electronics | █████████████████▓▒▒░░░░░░ |
@@ -53,7 +55,6 @@ Digital electronics, computer architectures - RISC-V, FPGAs, product design and 
 | Design      | ██████████████▓▒░░░░░░░░░░ |
 | | |
 
-<!--
 ```text
  ╭─────────────────────────────────────────────────╮
  │ - Electronics     █████████████████▓▒▒░░░░░░   │
@@ -90,7 +91,7 @@ Digital electronics, computer architectures - RISC-V, FPGAs, product design and 
 <span style="text-align: center;" align="center">
   <p align="center" markdown="1">
 
-<a href="https://ko-fi.com/H2H8BUHSB"><img src="https://github.com/LucasPlacentino/LucasPlacentino/assets/23436953/ba0c06d6-7067-422e-a049-f9f4ed95de20" style="width: 3vw"/></a> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8BUHSB)
+<a href="https://ko-fi.com/H2H8BUHSB"><img src="https://github.com/LucasPlacentino/LucasPlacentino/assets/23436953/ba0c06d6-7067-422e-a049-f9f4ed95de20" style="width: 3vw"/></a><!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8BUHSB) -->
 
 *`Lucas`*
 
